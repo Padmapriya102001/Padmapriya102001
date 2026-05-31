@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src=She_is_typing_on_a_laptop_occ.mp4>
+  <img src="Adobe Express - She_is_typing_on_a_laptop_occ.gif" width="100%">
 
 </p>
 
